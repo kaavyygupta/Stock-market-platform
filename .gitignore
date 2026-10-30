@@ -1,2 +1,4 @@
 # Secrets (passwords, API keys)
 .env
+# Python's automatic cache files
+__pycache__/
